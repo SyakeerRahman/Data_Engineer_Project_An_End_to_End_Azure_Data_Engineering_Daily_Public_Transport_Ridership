@@ -1,6 +1,7 @@
 # Data_Engineer_Project_An_End_to_End_Azure_Data_Engineering_Daily_Public_Transport_Ridership
 
-<img width="575" alt="pipeline price catcher" src="https://github.com/SyakeerRahman/Data_Engineer_Project_An_End_to_End_Azure_Data_Engineering_Daily_Public_Transport_Ridership/assets/105381652/9b023dae-328b-4710-9b92-f113298cd217">
+<img width="551" alt="transport pipeline" src="https://github.com/SyakeerRahman/Data_Engineer_Project_An_End_to_End_Azure_Data_Engineering_Daily_Public_Transport_Ridership/assets/105381652/93dc7bfa-3782-4f58-9cb9-71c06d2528e2">
+
 
 ## Create resource group and resources
 1. resoure group
